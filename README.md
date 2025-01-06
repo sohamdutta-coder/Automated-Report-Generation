@@ -1,4 +1,4 @@
-# **Automated PDF Internship Report Generator**
+# **Automated Report Generator**
 
 **Name:** Soham Dutta  
 **Company:** CODTECH IT Solutions  
